@@ -313,6 +313,7 @@ body {
 
 .text a {
     color: rgb(240, 227, 230);
+    text-decoration: none;
 }
 
 .text a:hover {
@@ -384,9 +385,10 @@ body {
   }
   
 .mail_stamp {
-    width: 130px;
-    margin-left: 10px;
+    width: 140px;
+    margin-left: 4%;
     margin-top: 10px;
+    margin-bottom: 15px;
     box-shadow: 0.8em 0.8em 15px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
 }
@@ -419,7 +421,7 @@ footer {
 }
   
 footer p {
-    margin-top: 200px;  
+    margin-top: 100px;  
     font-size: 1em;
     letter-spacing: 1px;
-  }
+}
